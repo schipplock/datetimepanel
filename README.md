@@ -33,7 +33,7 @@ sind über ein Resource Bundle konfigurierbar.
 <dependency>
     <groupId>de.schipplock.gui.swing</groupId>
     <artifactId>datetimepanel</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
